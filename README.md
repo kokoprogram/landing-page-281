@@ -1,10 +1,7 @@
-# Discord Bot Landing Page Template
+# Discord Bot Landing Page Template | MY VERSION / FORK
 Just a simple landing page for your discord bot with animations, works with different devices and easy to modify
 
-This landing page can be also used for other purposes, it can be used as a personal portfolio and so on
-
-You can change / modify everything in these files
-
+This landing page is a modified version, this is just a forked repo, look up the original please. I DID NOT MAKE THIS, ONLY EDITED THIS!
 # Installation
 
 Clone, download or fork the repo and open index.html on any editor
